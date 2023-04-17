@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Majesty Palm",
+      "image": "https://www.plants.com/images/157652lgp_20201120-1605904486889.webp",
+      "price": "130.99",
+      "id": 8
+    },
+    {
+      "name": "Mass Cane",
+      "image": "https://www.plants.com/images/157705L3DN_20220221-1645471839405.webp",
+      "price": 137.99,
+      "id": 9
     }
   ]
 }
